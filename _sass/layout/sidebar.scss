@@ -1,0 +1,6 @@
+.neko-button {
+    &:hover {
+        @extend %link-hover;
+    }
+    cursor: pointer;
+}

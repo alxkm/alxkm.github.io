@@ -1,0 +1,19 @@
+#  The contact options.
+
+- type: github
+  icon: "fab fa-github"
+
+- type: twitter
+  icon: "fa-brands fa-twitter"
+
+- type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url: 'https://www.linkedin.com/in/'
+
+- type: telegram
+  icon: "fa-brands fa-telegram"
+  url: 'https://t.me/'
+
+- type: rss
+  icon: "fas fa-rss"
+  noblank: true
