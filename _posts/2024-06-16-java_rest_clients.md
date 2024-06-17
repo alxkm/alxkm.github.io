@@ -13,8 +13,6 @@ categories:
   - Guide
 ---
 
-## 
-
 Traversing Java’s HTTP Landscape: A Survey of Clients for Modern Web Applications
 
 ![](https://cdn-images-1.medium.com/max/2000/1*zNzPIcVysYSTpxNvP5kJcA.jpeg)
