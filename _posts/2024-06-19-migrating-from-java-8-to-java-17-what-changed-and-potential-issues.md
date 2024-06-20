@@ -5,10 +5,6 @@ date: 2024-06-19
 author: alxkm
 tags:
   - java
-  - spring
-  - library
-  - microservices
-  - Resilience4j
 categories:
   - Research
   - Guide
