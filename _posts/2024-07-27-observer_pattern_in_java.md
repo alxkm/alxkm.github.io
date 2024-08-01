@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Observer Pattern Key Concepts and Applications in Reactive Programming and Beyond
-date: 2024-07-23
+date: 2024-07-27
 author: alxkm
 tags:
   - java
