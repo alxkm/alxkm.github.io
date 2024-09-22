@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Power of Reflection Libraries in Java
-date: 2024-08-09
+date: 2024-08-17
 author: alxkm
 tags:
   - java
   - reflection
   - engineering
-  - reflectionapi
+  - reflection-api
 categories:
   - Research
   - Guide
