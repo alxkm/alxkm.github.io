@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microservices Data Formats JSON, XML, Protobuf, Thrift, and Avro
-date: 2024-09-01
+date: 2024-09-08
 author: alxkm
 tags:
   - java
