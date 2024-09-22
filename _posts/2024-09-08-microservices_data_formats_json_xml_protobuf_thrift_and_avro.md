@@ -7,6 +7,7 @@ tags:
   - java
   - data formats
   - microservices
+  - architecture
   - json
   - xml
   - protobuf
